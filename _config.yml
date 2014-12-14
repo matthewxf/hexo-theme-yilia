@@ -6,10 +6,10 @@ menu:
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  facebook: "#"
+  github: "https://github.com/matthewxf"
+  weibo: "http://weibo.com/mendfang"
+  rss: "https://matthewxf.github.io/atom.xml"
+  # facebook: "#"
   # google: "#"
   # twitter: "#"
   # linkedin: "#"
@@ -22,31 +22,31 @@ fancybox: true
 
 # Miscellaneous
 
-favicon: /favicon.png
+favicon: /favicons.png
 
 #你的头像
-avatar: "https://avatars2.githubusercontent.com/u/2024949?v=2&s=150"
+avatar: "https://avatars2.githubusercontent.com/u/5102406?v=3&s=150"
 #是否开启分享
 share: true
 #是否开启多说评论，填写你在多说申请的项目名称
-duoshuo: true
+duoshuo: matthewxf
 #是否开启云标签
 tagcloud: true
 
 #是否开启友情链接
 #不开启——
-#friends: false
+friends: false
 #开启——
-friends:
-  奥巴马的博客: http://localhost:4000/
-  卡卡的美丽传说: http://localhost:4000/
-  本泽马的博客: http://localhost:4000/
-  吉格斯的博客: http://localhost:4000/
-  习大大大不同: http://localhost:4000/
-  托蒂的博客: http://localhost:4000/
+#friends:
+#  奥巴马的博客: http://localhost:4000/
+#  卡卡的美丽传说: http://localhost:4000/
+#  本泽马的博客: http://localhost:4000/
+#  吉格斯的博客: http://localhost:4000/
+#  习大大大不同: http://localhost:4000/
+#  托蒂的博客: http://localhost:4000/
 
 #是否开启“关于我”。
 #不开启——
 #aboutme: false
 #开启——
-aboutme: 我是谁，我从哪里来，我到哪里去？我就是我，是颜色不一样的吃货…
+aboutme: 一个严肃的逗比
